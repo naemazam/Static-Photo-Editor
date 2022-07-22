@@ -1,1 +1,1 @@
-# Online-Photo-Editor
+# Static Photo Editor
